@@ -19,10 +19,10 @@ Rainbow Keyboard（あっきー氏制作）で Roland SD-80 / SD-90 を使用す
 - 他の MIDI ユーティリティソフト等から送信
 ※ Native ON 状態でなければ、正しく音色が切り替わらない場合があります。
 
-## クレジット
+## クレジット・権利表記
+- **元データの著作権:** 本データは [Roland社](https://www.roland.com/jp/)配布の定義ファイルをベースに改変したものです。著作権は Roland社に帰属します。
 - **ソフト作者:** Ackie Sound（あっきー）様
 - **公式サイト:** [https://ackiesound.ifdef.jp/](https://ackiesound.ifdef.jp/)
+- **免責事項:** 本ファイルは個人の制作物であり、Roland社およびAckie Sound公式のサポート対象ではありません。自己責任でご利用ください。
 
 
-## ライセンス
-本リポジトリ内の LICENSE ファイルをご確認ください。
