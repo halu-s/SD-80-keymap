@@ -1,0 +1,1616 @@
+SD-80
+
+001,096,000,Classical : Piano 1     
+001,096,001,Classical : Piano 1w    
+001,096,002,Classical : Piano 1d    
+002,096,000,Classical : Piano 2     
+002,096,001,Classical : Piano 2w    
+003,096,000,Classical : Piano 3     
+003,096,001,Classical : Piano 3w    
+004,096,000,Classical : Honky-tonk  
+004,096,001,Classical : Honky-tonk w
+005,096,000,Classical : E.Piano 1   
+005,096,001,Classical : Detuned EP1 
+005,096,002,Classical : Dyno Rhodes 
+005,096,003,Classical : 60's E.Piano
+006,096,000,Classical : E.Piano 2   
+006,096,001,Classical : Detuned EP2 
+006,096,002,Classical : E.Piano 2v  
+006,096,003,Classical : EP Legend   
+006,096,004,Classical : EP Phase    
+007,096,000,Classical : Harpsichord 
+007,096,001,Classical : Coupl hps   
+007,096,002,Classical : Harpsi w    
+007,096,003,Classical : Harpsi o    
+008,096,000,Classical : Clav        
+008,096,001,Classical : Pulse Clav  
+009,096,000,Classical : Celesta     
+010,096,000,Classical : Glockenspiel
+011,096,000,Classical : Music Box   
+012,096,000,Classical : Vibraphone  
+012,096,001,Classical : Vibraphone w
+013,096,000,Classical : Marimba     
+013,096,001,Classical : Marimba w   
+014,096,000,Classical : Xylophone   
+015,096,000,Classical : Tubular-bell
+015,096,001,Classical : Church Bell 
+015,096,002,Classical : Carillon    
+016,096,000,Classical : Santur      
+017,096,000,Classical : Organ 1     
+017,096,001,Classical : Detuned Or1 
+017,096,002,Classical : Organ 60    
+017,096,003,Classical : Organ 4     
+018,096,000,Classical : Organ 2     
+018,096,001,Classical : Detuned Or2 
+018,096,002,Classical : Organ 5     
+019,096,000,Classical : Organ 3     
+020,096,000,Classical : Church 1    
+020,096,001,Classical : Church 2    
+020,096,002,Classical : Church 3    
+021,096,000,Classical : Reed Organ  
+021,096,001,Classical : Puff Organ  
+022,096,000,Classical : Accordion F 
+022,096,001,Classical : Accordion I 
+023,096,000,Classical : Harmonica   
+024,096,000,Classical : Bandneon    
+025,096,000,Classical : Nylon Gt    
+025,096,001,Classical : Ukulele     
+025,096,002,Classical : Nylon o     
+025,096,003,Classical : Nylon Gt.2  
+026,096,000,Classical : Steel-str.Gt
+026,096,001,Classical : 12-Str.Gt   
+026,096,002,Classical : Mandolin    
+026,096,003,Classical : Steel+Body  
+027,096,000,Classical : Jazz Gt     
+027,096,001,Classical : Pedal Steel 
+028,096,000,Classical : Clean Rear  
+028,096,001,Classical : Clean Half  
+028,096,002,Classical : Mid Tone Gt 
+029,096,000,Classical : Muted Gt    
+029,096,001,Classical : Funk Gt     
+029,096,002,Classical : Funk Gt 2   
+029,096,003,Classical : Jazz Man    
+030,096,000,Classical : Overdrive Gt
+030,096,001,Classical : Gt.Pinch    
+031,096,000,Classical : DistortionGt
+031,096,001,Classical : Feedback Gt 
+031,096,002,Classical : DistRythm Gt
+032,096,000,Classical : Gt.Harmonics
+032,096,001,Classical : Gt.Feedback 
+033,096,000,Classical : Acoustic Bs 
+034,096,000,Classical : Fingered Bs 
+034,096,001,Classical : FingerJ.Bass
+035,096,000,Classical : Picked Bass 
+036,096,000,Classical : Fretless Bs 
+037,096,000,Classical : Slap Bass 1 
+038,096,000,Classical : Slap Bass 2 
+039,096,000,Classical : Synth Bass 1
+039,096,001,Classical : SynthBass101
+039,096,002,Classical : Acid Bass   
+039,096,003,Classical : Clavi Bass  
+039,096,004,Classical : Hammer      
+040,096,000,Classical : Synth Bass 2
+040,096,001,Classical : Beef FM Bs  
+040,096,002,Classical : Rubber Bass 
+040,096,003,Classical : Attack Pulse
+041,096,000,Classical : Violin      
+041,096,001,Classical : Slow Violin 
+042,096,000,Classical : Viola       
+043,096,000,Classical : Cello       
+044,096,000,Classical : Contrabass  
+045,096,000,Classical : Tremolo Str 
+046,096,000,Classical : Pizzicato   
+047,096,000,Classical : Harp        
+047,096,001,Classical : Yangqin     
+048,096,000,Classical : Timpani     
+049,096,000,Classical : Strings     
+049,096,001,Classical : Orchestra   
+049,096,002,Classical : 60'Strings  
+050,096,000,Classical : Slow Strings
+051,096,000,Classical : Syn.Strings1
+051,096,001,Classical : Syn.Strings3
+052,096,000,Classical : Syn.Strings2
+053,096,000,Classical : Choir Aahs  
+053,096,001,Classical : Choir Aahs 2
+054,096,000,Classical : Voice Oohs  
+054,096,001,Classical : Hamming     
+055,096,000,Classical : SynVox      
+055,096,001,Classical : Ana Voice   
+056,096,000,Classical : Orchestrahit
+056,096,001,Classical : Bass Hit    
+056,096,002,Classical : 6th Hit     
+056,096,003,Classical : Euro Hit    
+057,096,000,Classical : Trumpet     
+057,096,001,Classical : Dark Trumpet
+058,096,000,Classical : Trombone    
+058,096,001,Classical : Trombone 2  
+058,096,002,Classical : Brite Bone  
+059,096,000,Classical : Tuba        
+060,096,000,Classical : MuteTrumpet 
+060,096,001,Classical : MuteTrumpet2
+061,096,000,Classical : French Horns
+061,096,001,Classical : Fr.Horn     
+062,096,000,Classical : Brass 1     
+062,096,001,Classical : Brass 2     
+063,096,000,Classical : SynthBrass 1
+063,096,001,Classical : SynthBrass 3
+063,096,002,Classical : Oct.SynBrass
+063,096,003,Classical : Jump Brass  
+064,096,000,Classical : SynthBrass 2
+064,096,001,Classical : SynthBrass 4
+064,096,002,Classical : Velo Brass  
+065,096,000,Classical : Soprano Sax 
+066,096,000,Classical : Alto Sax    
+067,096,000,Classical : Tenor Sax   
+068,096,000,Classical : Bariton Sax 
+069,096,000,Classical : Oboe        
+070,096,000,Classical : EnglishHorn 
+071,096,000,Classical : Bassoon     
+072,096,000,Classical : Clarinet    
+073,096,000,Classical : Piccolo     
+074,096,000,Classical : Flute       
+075,096,000,Classical : Recorder    
+076,096,000,Classical : Pan Flute   
+077,096,000,Classical : Bottle Blow 
+078,096,000,Classical : Shakuhachi  
+079,096,000,Classical : Whistle     
+080,096,000,Classical : Ocarina     
+081,096,000,Classical : Square Wave 
+081,096,001,Classical : Square      
+081,096,002,Classical : Sine Wave   
+082,096,000,Classical : Saw Wave    
+082,096,001,Classical : Saw         
+082,096,002,Classical : Doctor Solo 
+082,096,003,Classical : Natural Lead
+082,096,004,Classical : SequencedSaw
+083,096,000,Classical : Syn.Calliope
+084,096,000,Classical : Chiffer Lead
+085,096,000,Classical : Charang     
+085,096,001,Classical : Wire Lead   
+086,096,000,Classical : Solo Vox    
+087,096,000,Classical : 5th SawWave 
+088,096,000,Classical : Bass & Lead 
+088,096,001,Classical : DelayedLead 
+089,096,000,Classical : Fantasia    
+090,096,000,Classical : Warm Pad    
+090,096,001,Classical : Sine Pad    
+091,096,000,Classical : Polysynth   
+092,096,000,Classical : SpaceVoice  
+092,096,001,Classical : Itopia      
+093,096,000,Classical : BowedGlass  
+094,096,000,Classical : Metal Pad   
+095,096,000,Classical : Halo Pad    
+096,096,000,Classical : Sweep Pad   
+097,096,000,Classical : Ice Rain    
+098,096,000,Classical : Soundtrack  
+099,096,000,Classical : Crystal     
+099,096,001,Classical : Syn Mallet  
+100,096,000,Classical : Atmosphere  
+101,096,000,Classical : Brightness  
+102,096,000,Classical : Goblin      
+103,096,000,Classical : Echo Drops  
+103,096,001,Classical : Echo Bell   
+103,096,002,Classical : Echo Pan    
+104,096,000,Classical : Star Theme  
+105,096,000,Classical : Sitar       
+105,096,001,Classical : Sitar 2     
+106,096,000,Classical : Banjo       
+107,096,000,Classical : Shamisen    
+108,096,000,Classical : Koto        
+108,096,001,Classical : Taisho Koto 
+109,096,000,Classical : Kalimba     
+110,096,000,Classical : Bag Pipe    
+111,096,000,Classical : Fiddle      
+112,096,000,Classical : Shanai      
+113,096,000,Classical : Tinkle Bell 
+114,096,000,Classical : Agogo       
+115,096,000,Classical : Steel Drums 
+116,096,000,Classical : Woodblock   
+116,096,001,Classical : Castanet    
+117,096,000,Classical : Taiko       
+117,096,001,Classical : Concert BD  
+118,096,000,Classical : Melo.Tom 1  
+118,096,001,Classical : Melo.Tom 2  
+119,096,000,Classical : Synth Drum  
+119,096,001,Classical : 808 tom     
+119,096,002,Classical : Elec Perc   
+120,096,000,Classical : Reverse Cym 
+121,096,000,Classical : GtFret Noise
+121,096,001,Classical : Gt.Cut Noise
+121,096,002,Classical : Slap_St.Bass
+122,096,000,Classical : Breath Noise
+122,096,001,Classical : Fl.Key Click
+123,096,000,Classical : Seashore    
+123,096,001,Classical : Rain        
+123,096,002,Classical : Thunder     
+123,096,003,Classical : Wind        
+123,096,004,Classical : Stream      
+123,096,005,Classical : Bubble      
+124,096,000,Classical : Bird Tweet  
+124,096,001,Classical : Dog         
+124,096,002,Classical : Horse Gallop
+124,096,003,Classical : Bird Tweet 2
+125,096,000,Classical : Telephone   
+125,096,001,Classical : Telephone 2 
+125,096,002,Classical : Door Creak  
+125,096,003,Classical : Door        
+125,096,004,Classical : Scratch     
+125,096,005,Classical : Wind Chimes 
+126,096,000,Classical : Helicopter  
+126,096,001,Classical : Car-Engine  
+126,096,002,Classical : Car-Stop    
+126,096,003,Classical : Car-Pass    
+126,096,004,Classical : Car-Crash   
+126,096,005,Classical : Siren       
+126,096,006,Classical : Train       
+126,096,007,Classical : Jetplane    
+126,096,008,Classical : Starship
+126,096,009,Classical : Burst Noise
+127,096,000,Classical : Applause    
+127,096,001,Classical : Laughing    
+127,096,002,Classical : Screaming   
+127,096,003,Classical : Punch       
+127,096,004,Classical : Heart Beat  
+127,096,005,Classical : Footsteps   
+128,096,000,Classical : Gunshot     
+128,096,001,Classical : Machine Gun 
+128,096,002,Classical : Lasergun    
+128,096,003,Classical : Explosion   
+001,104,000,Classical Drum : Standard Set
+009,104,000,Classical Drum : Room Set
+017,104,000,Classical Drum : Power Set
+025,104,000,Classical Drum : Electric Set
+026,104,000,Classical Drum : Analog Set
+033,104,000,Classical Drum : Jazz Set
+041,104,000,Classical Drum : Brush Set
+049,104,000,Classical Drum : OrchestraSet
+057,104,000,Classical Drum : SFX Set
+001,097,000,Contemporary : Ac.Piano    
+001,097,001,Contemporary : Ac.Piano w  
+001,097,002,Contemporary : Mild Piano  
+002,097,000,Contemporary : Rock Piano  
+002,097,001,Contemporary : Rock Piano w
+003,097,000,Contemporary : E.Grand Pf  
+003,097,001,Contemporary : E.Grand Pf w
+004,097,000,Contemporary : Old Honky   
+004,097,001,Contemporary : Old Honky w 
+005,097,000,Contemporary : Soft Rhodes 
+005,097,001,Contemporary : Fat Rhodes  
+005,097,002,Contemporary : Rhodes Wide 
+005,097,003,Contemporary : Wurly Soft  
+006,097,000,Contemporary : FM E.Piano  
+006,097,001,Contemporary : Soft FM EP  
+006,097,002,Contemporary : SA E.Piano  
+006,097,003,Contemporary : EP Legend 2 
+006,097,004,Contemporary : EP Phase 2  
+007,097,000,Contemporary : Harpsi 2    
+007,097,001,Contemporary : Coupl hps 2 
+007,097,002,Contemporary : Harpsi 2 w  
+007,097,003,Contemporary : Harpsi 2 o  
+008,097,000,Contemporary : Atack Clav 1
+008,097,001,Contemporary : AnalogClav 1
+009,097,000,Contemporary : Celesta 2   
+010,097,000,Contemporary : Glocken 2   
+011,097,000,Contemporary : Music Box 2 
+012,097,000,Contemporary : Vibraphone 2
+012,097,001,Contemporary : Vibraphone2w
+013,097,000,Contemporary : Marimba 2   
+013,097,001,Contemporary : Marimba 2 w 
+014,097,000,Contemporary : Xylophone 2 
+015,097,000,Contemporary : Tubular-bel2
+015,097,001,Contemporary : Church Bell2
+015,097,002,Contemporary : Carillon 2  
+016,097,000,Contemporary : Santur 2    
+017,097,000,Contemporary : Perky       
+017,097,001,Contemporary : Ballad B    
+017,097,002,Contemporary : Happy 60s   
+017,097,003,Contemporary : Tone Wheel  
+018,097,000,Contemporary : Jazz Organ 1
+018,097,001,Contemporary : Perc.Organ 1
+018,097,002,Contemporary : Dist.JzOrg 1
+019,097,000,Contemporary : Organ 3 fast
+020,097,000,Contemporary : Pipe Organ 1
+020,097,001,Contemporary : LargeChurch1
+020,097,002,Contemporary : SmallChurch1
+021,097,000,Contemporary : Reed Organ 2
+021,097,001,Contemporary : Organ Flute 
+022,097,000,Contemporary : French Acc  
+022,097,001,Contemporary : It Muset    
+023,097,000,Contemporary : Harmonica 2 
+024,097,000,Contemporary : Bandneon 1  
+025,097,000,Contemporary : Nylon Gt 2  
+025,097,001,Contemporary : Ukulele 2   
+025,097,002,Contemporary : Nylon 2 o   
+025,097,003,Contemporary : Hard Gut Gt 
+026,097,000,Contemporary : OV Steel Gt 
+026,097,001,Contemporary : 12-Str.Gt 2 
+026,097,002,Contemporary : Mandolin 2  
+026,097,003,Contemporary : Steel+Body 2
+027,097,000,Contemporary : Jazz Gt 2   
+027,097,001,Contemporary : Pedal Steel2
+028,097,000,Contemporary : TC Rear     
+028,097,001,Contemporary : TC Front    
+028,097,002,Contemporary : TC Front 2  
+029,097,000,Contemporary : TC Mute Gt  
+029,097,001,Contemporary : FunkGt Slap 
+029,097,002,Contemporary : Funk Pop    
+029,097,003,Contemporary : Mute Jazz Gt
+030,097,000,Contemporary : Atk Drive Gt
+030,097,001,Contemporary : Gt.Pinch 2  
+031,097,000,Contemporary : Atk Dist Gt 
+031,097,001,Contemporary : FeedbackGt 2
+031,097,002,Contemporary : Muted Dist  
+032,097,000,Contemporary : Gt.Harm 2   
+032,097,001,Contemporary : FeedbackOct 
+033,097,000,Contemporary : Rockabilly  
+034,097,000,Contemporary : Fingered Bs2
+034,097,001,Contemporary : FingerP.Bass
+035,097,000,Contemporary : Picked Jz Bs
+036,097,000,Contemporary : Fretless Bs2
+037,097,000,Contemporary : Slap Pop 1  
+038,097,000,Contemporary : Funky Slap  
+039,097,000,Contemporary : MG303 Bass  
+039,097,001,Contemporary : MG Bass     
+039,097,002,Contemporary : MG Acid Bass
+039,097,003,Contemporary : Clavi Bass 2
+039,097,004,Contemporary : OB Hammer   
+040,097,000,Contemporary : Seq101 Bass 
+040,097,001,Contemporary : Beef Slap Bs
+040,097,002,Contemporary : Rubber Bass2
+040,097,003,Contemporary : Attack Saw  
+041,097,000,Contemporary : Violin vib  
+041,097,001,Contemporary : Slow Vln vib
+042,097,000,Contemporary : Viola vib   
+043,097,000,Contemporary : Cello vib   
+044,097,000,Contemporary : Cb vib      
+045,097,000,Contemporary : Tremolo Str2
+046,097,000,Contemporary : Pizzicato 2 
+047,097,000,Contemporary : Harp 2      
+047,097,001,Contemporary : Yangqin 2   
+048,097,000,Contemporary : Timpani 2   
+049,097,000,Contemporary : Strings 2   
+049,097,001,Contemporary : Orchestra 2 
+049,097,002,Contemporary : Oct.Strings 
+050,097,000,Contemporary : SlowStrings2
+051,097,000,Contemporary : BriteSyn.Str
+051,097,001,Contemporary : Oct.SynStr 1
+052,097,000,Contemporary : Warm SynStr1
+053,097,000,Contemporary : Large Choir 
+053,097,001,Contemporary : Small Choir 
+054,097,000,Contemporary : Voice Oohs 2
+054,097,001,Contemporary : Hamming 2   
+055,097,000,Contemporary : SynVox 2    
+055,097,001,Contemporary : Ana Voice 2 
+056,097,000,Contemporary : Orc Hit 2   
+056,097,001,Contemporary : Bass Hit 2  
+056,097,002,Contemporary : 6th Hit 2   
+056,097,003,Contemporary : Euro Hit 2  
+057,097,000,Contemporary : Solo Trumpet
+057,097,001,Contemporary : Mild Trumpet
+058,097,000,Contemporary : Solo Bone   
+058,097,001,Contemporary : Solo Bone 2 
+058,097,002,Contemporary : Brite Bone 2
+059,097,000,Contemporary : Tuba 2      
+060,097,000,Contemporary : MuteTrumpet2
+060,097,001,Contemporary : Harmon Mute 
+061,097,000,Contemporary : FrenchHorns2
+061,097,001,Contemporary : MildFr.Horns
+062,097,000,Contemporary : Brass FF    
+062,097,001,Contemporary : BrassSection
+063,097,000,Contemporary : JP Syn.Brass
+063,097,001,Contemporary : JPSyn.Brass2
+063,097,002,Contemporary : OctSynBrass2
+063,097,003,Contemporary : 80's Brass  
+064,097,000,Contemporary : MG Syn.Horn 
+064,097,001,Contemporary : OB Syn.Horn 
+064,097,002,Contemporary : CS Syn.Brass
+065,097,000,Contemporary : Soprano Sax2
+066,097,000,Contemporary : Breathy Alto
+067,097,000,Contemporary : BreathyTenor
+068,097,000,Contemporary : Barely Bari 
+069,097,000,Contemporary : Brite Oboe  
+070,097,000,Contemporary : EnglishHorn2
+071,097,000,Contemporary : Bassoon 2   
+072,097,000,Contemporary : Br.Clarinet 
+073,097,000,Contemporary : Piccolo 2   
+074,097,000,Contemporary : Flute 2     
+075,097,000,Contemporary : Recorder 2  
+076,097,000,Contemporary : Pan Flute 2 
+077,097,000,Contemporary : Bottle Blow2
+078,097,000,Contemporary : Shakuhachi 2
+079,097,000,Contemporary : Whistle 2   
+080,097,000,Contemporary : Ocarina 2   
+081,097,000,Contemporary : MG Square   
+081,097,001,Contemporary : Fat Square  
+081,097,002,Contemporary : 2600 Sine   
+082,097,000,Contemporary : JP Saw Wave 
+082,097,001,Contemporary : MG Saw      
+082,097,002,Contemporary : Fat Saw Solo
+082,097,003,Contemporary : P5 Saw Lead 
+082,097,004,Contemporary : MG Sequence 
+083,097,000,Contemporary : SynCalliope2
+084,097,000,Contemporary : ChifferLead2
+085,097,000,Contemporary : Charang 2   
+085,097,001,Contemporary : Wire Lead 2 
+086,097,000,Contemporary : Solo Vox 2  
+087,097,000,Contemporary : 5th SawWave2
+088,097,000,Contemporary : Bass & Lead2
+088,097,001,Contemporary : DelayedLead2
+089,097,000,Contemporary : Fantasia 2  
+090,097,000,Contemporary : Warm Pad 2  
+090,097,001,Contemporary : Sine Pad 2  
+091,097,000,Contemporary : Polysynth 2 
+092,097,000,Contemporary : SpaceVoice 2
+092,097,001,Contemporary : Itopia 2    
+093,097,000,Contemporary : BowedGlass 2
+094,097,000,Contemporary : Metal Pad 2 
+095,097,000,Contemporary : Halo Pad 2  
+096,097,000,Contemporary : Sweep Pad 2 
+097,097,000,Contemporary : Ice Rain 2  
+098,097,000,Contemporary : Soundtrack 2
+099,097,000,Contemporary : Crystal 2   
+099,097,001,Contemporary : Syn Mallet 2
+100,097,000,Contemporary : Atmosphere 2
+101,097,000,Contemporary : Brightness 2
+102,097,000,Contemporary : Goblin 2    
+103,097,000,Contemporary : Echo Drops 2
+103,097,001,Contemporary : Echo Bell 2 
+103,097,002,Contemporary : Echo Pan 2  
+104,097,000,Contemporary : Star Theme 2
+105,097,000,Contemporary : Atk Sitar   
+105,097,001,Contemporary : Atk Sitar 2 
+106,097,000,Contemporary : Banjo 2     
+107,097,000,Contemporary : Shamisen 2  
+108,097,000,Contemporary : Koto 2      
+108,097,001,Contemporary : Taisho Koto2
+109,097,000,Contemporary : Kalimba 2   
+110,097,000,Contemporary : Bag Pipe 2  
+111,097,000,Contemporary : Fiddle vib  
+112,097,000,Contemporary : Shanai 2    
+113,097,000,Contemporary : Tinkle Bell 
+114,097,000,Contemporary : Agogo       
+115,097,000,Contemporary : Steel Drums 
+116,097,000,Contemporary : Woodblock   
+116,097,001,Contemporary : Castanet    
+117,097,000,Contemporary : Taiko       
+117,097,001,Contemporary : Concert BD  
+118,097,000,Contemporary : Melo.Tom 1  
+118,097,001,Contemporary : Melo.Tom 2  
+119,097,000,Contemporary : Synth Drum  
+119,097,001,Contemporary : 808 tom     
+119,097,002,Contemporary : Elec Perc   
+120,097,000,Contemporary : Reverse Cym 
+121,097,000,Contemporary : GtFret Noise
+121,097,001,Contemporary : Gt.Cut Noise
+121,097,002,Contemporary : Slap_St.Bass
+122,097,000,Contemporary : Breath Noise
+122,097,001,Contemporary : Fl.Key Click
+123,097,000,Contemporary : Seashore    
+123,097,001,Contemporary : Rain        
+123,097,002,Contemporary : Thunder     
+123,097,003,Contemporary : Wind        
+123,097,004,Contemporary : Stream      
+123,097,005,Contemporary : Bubble      
+124,097,000,Contemporary : Bird Tweet  
+124,097,001,Contemporary : Dog         
+124,097,002,Contemporary : Horse Gallop
+124,097,003,Contemporary : Bird Tweet 2
+125,097,000,Contemporary : Telephone   
+125,097,001,Contemporary : Telephone 2 
+125,097,002,Contemporary : Door Creak  
+125,097,003,Contemporary : Door        
+125,097,004,Contemporary : Scratch     
+125,097,005,Contemporary : Wind Chimes 
+126,097,000,Contemporary : Helicopter  
+126,097,001,Contemporary : Car-Engine  
+126,097,002,Contemporary : Car-Stop    
+126,097,003,Contemporary : Car-Pass    
+126,097,004,Contemporary : Car-Crash   
+126,097,005,Contemporary : Siren       
+126,097,006,Contemporary : Train
+126,097,007,Contemporary : Jetplane
+126,097,008,Contemporary : Starship
+126,097,009,Contemporary : Burst Noise
+127,097,000,Contemporary : Applause    
+127,097,001,Contemporary : Laughing    
+127,097,002,Contemporary : Screaming   
+127,097,003,Contemporary : Punch       
+127,097,004,Contemporary : Heart Beat  
+127,097,005,Contemporary : Footsteps   
+128,097,000,Contemporary : Gunshot     
+128,097,001,Contemporary : Machine Gun 
+128,097,002,Contemporary : Lasergun    
+128,097,003,Contemporary : Explosion   
+001,105,000,Contemporary Drum : StandardSet2
+009,105,000,Contemporary Drum : Room Set 2
+017,105,000,Contemporary Drum : Power Set 2
+025,105,000,Contemporary Drum : Dance Set
+026,105,000,Contemporary Drum : Rave Set
+033,105,000,Contemporary Drum : Jazz Set 2
+041,105,000,Contemporary Drum : Brush Set 2
+049,105,000,Contemporary Drum : OrchestraSet
+057,105,000,Contemporary Drum : SFX Set
+001,099,000,Enhanced : SD Piano    
+001,099,001,Enhanced : SD Piano w  
+001,099,002,Enhanced : Classic Pf  
+002,099,000,Enhanced : Enh.Piano 2 
+002,099,001,Enhanced : Enh.Piano 2w
+003,099,000,Enhanced : Enh.E Grand 
+003,099,001,Enhanced : Enh.E Grandw
+004,099,000,Enhanced : Brite Honky 
+004,099,001,Enhanced : Brite Honkyw
+005,099,000,Enhanced : Stage 73    
+005,099,001,Enhanced : NY Rhodes   
+005,099,002,Enhanced : Phase Dyno  
+005,099,003,Enhanced : Whirly      
+006,099,000,Enhanced : Chorus EP   
+006,099,001,Enhanced : Phase FM EP 
+006,099,002,Enhanced : Wah FM EP   
+006,099,003,Enhanced : Enh.Legend  
+006,099,004,Enhanced : Phasing EP  
+007,099,000,Enhanced : Enh.Harpsi  
+007,099,001,Enhanced : Enh.Coupl hp
+007,099,002,Enhanced : Enh.Harpsi w
+007,099,003,Enhanced : Enh.Harpsi o
+008,099,000,Enhanced : Comp Clav   
+008,099,001,Enhanced : Wah Ana.Clav
+009,099,000,Enhanced : SpaceCelesta
+010,099,000,Enhanced : Trem.Glocken
+011,099,000,Enhanced : Panning Box 
+012,099,000,Enhanced : Trem.Vibra  
+012,099,001,Enhanced : Trem.Vibra w
+013,099,000,Enhanced : Enh.Marimba 
+013,099,001,Enhanced : Enh.Marimbaw
+014,099,000,Enhanced : Enh.Xylophon
+015,099,000,Enhanced : Trem.Tubula 
+015,099,001,Enhanced : Echo Church 
+015,099,002,Enhanced : Trm.Carillon
+016,099,000,Enhanced : Enh.Santur  
+017,099,000,Enhanced : Perky Spin  
+017,099,001,Enhanced : Gospel Spin 
+017,099,002,Enhanced : 96 Year     
+017,099,003,Enhanced : Tone Wh.Solo
+018,099,000,Enhanced : Jazzy Spin  
+018,099,001,Enhanced : Jazzy Spin 2
+018,099,002,Enhanced : Jazzy Spin 3
+019,099,000,Enhanced : Rocker Spin 
+020,099,000,Enhanced : Amb.Church  
+020,099,001,Enhanced : Amb.Church 2
+020,099,002,Enhanced : Amb.Church 3
+021,099,000,Enhanced : Old Reed Org
+021,099,001,Enhanced : Enh.Theater 
+022,099,000,Enhanced : Enh.French  
+022,099,001,Enhanced : Enh.ItMuset 
+023,099,000,Enhanced : Ld.Harmonica
+024,099,000,Enhanced : Enh.Bandneon
+025,099,000,Enhanced : Enh.Nylon Gt
+025,099,001,Enhanced : Enh.Ukulele 
+025,099,002,Enhanced : Enh.Nylon o 
+025,099,003,Enhanced : Enh.Gut Gt  
+026,099,000,Enhanced : Comp OVSteel
+026,099,001,Enhanced : 3D 12-Str.Gt
+026,099,002,Enhanced : Enh.Mandolin
+026,099,003,Enhanced : DelayedSteel
+027,099,000,Enhanced : Lead Jazz Gt
+027,099,001,Enhanced : Hawaian Gt  
+028,099,000,Enhanced : Old Clean Gt
+028,099,001,Enhanced : Jazz Chorus 
+028,099,002,Enhanced : 335 Drive   
+029,099,000,Enhanced : Comp Mute Gt
+029,099,001,Enhanced : Enh.Funk Gt 
+029,099,002,Enhanced : Wah Funk Pop
+029,099,003,Enhanced : Solo Jazz Gt
+030,099,000,Enhanced : TC Lead Gt  
+030,099,001,Enhanced : Gt.PinchLead
+031,099,000,Enhanced : Heavy DistGt
+031,099,001,Enhanced : Feedbacker  
+031,099,002,Enhanced : Muted OD    
+032,099,000,Enhanced : Amp.Harm    
+032,099,001,Enhanced : Amp.FeedBack
+033,099,000,Enhanced : Enh.Aco Bass
+034,099,000,Enhanced : Pre Bass    
+034,099,001,Enhanced : Comp Finger 
+035,099,000,Enhanced : Rock Bass   
+036,099,000,Enhanced : Cho.Fretless
+037,099,000,Enhanced : Phase Slap  
+038,099,000,Enhanced : Enh.Slap Pop
+039,099,000,Enhanced : Dist303 Bass
+039,099,001,Enhanced : P.Shift Bass
+039,099,002,Enhanced : Acid Dist Bs
+039,099,003,Enhanced : PhaseClaviBs
+039,099,004,Enhanced : Enh.Hammer  
+040,099,000,Enhanced : PhaseSq Bass
+040,099,001,Enhanced : Enh.Beef Bs 
+040,099,002,Enhanced : Fat JpSaw Bs
+040,099,003,Enhanced : Enh.MG Bass 
+041,099,000,Enhanced : Enh.Violin  
+041,099,001,Enhanced : Enh.Slow Vln
+042,099,000,Enhanced : Enh.Viola   
+043,099,000,Enhanced : Enh.Cello   
+044,099,000,Enhanced : Enh.Cb      
+045,099,000,Enhanced : St.Trem Str2
+046,099,000,Enhanced : Chorus Pizz 
+047,099,000,Enhanced : Chorus Harp 
+047,099,001,Enhanced : Enh.Yangqin 
+048,099,000,Enhanced : Enh.Timpani 
+049,099,000,Enhanced : St.Strings 2
+049,099,001,Enhanced : St.Orchestr2
+049,099,002,Enhanced : St.OctStr 2 
+050,099,000,Enhanced : St.Slow Str2
+051,099,000,Enhanced : JP Strings  
+051,099,001,Enhanced : PhaseSyn.Str
+052,099,000,Enhanced : OB Strings  
+053,099,000,Enhanced : Rich Choir  
+053,099,001,Enhanced : St.Sm Choir2
+054,099,000,Enhanced : Enh.Vox Oohs
+054,099,001,Enhanced : Enh.Hamming 
+055,099,000,Enhanced : Phase SynVox
+055,099,001,Enhanced : Lead Ana.Vox
+056,099,000,Enhanced : Enh.Orc Hit 
+056,099,001,Enhanced : PhaseBassHit
+056,099,002,Enhanced : Dly.6th Hit 
+056,099,003,Enhanced : Dly.Euro Hit
+057,099,000,Enhanced : Enh.Trumpet 
+057,099,001,Enhanced : Warm Trumpet
+058,099,000,Enhanced : Enh.Trombone
+058,099,001,Enhanced : Enh.Bone 2  
+058,099,002,Enhanced : Enh.Br Bone 
+059,099,000,Enhanced : Chorus Tuba 
+060,099,000,Enhanced : Enh.Muted Tp
+060,099,001,Enhanced : Enh.MutedTp2
+061,099,000,Enhanced : Enh.StFrHorn
+061,099,001,Enhanced : Warm Horns  
+062,099,000,Enhanced : St.Big Brass
+062,099,001,Enhanced : Enh.Brs Sect
+063,099,000,Enhanced : SuperJP Brs1
+063,099,001,Enhanced : Lead Brass  
+063,099,002,Enhanced : Phase OctBrs
+063,099,003,Enhanced : SuperJP Brs2
+064,099,000,Enhanced : WarmSynHorn2
+064,099,001,Enhanced : Phase Horn  
+064,099,002,Enhanced : Fat Pro Bras
+065,099,000,Enhanced : Enh.Sop Sax 
+066,099,000,Enhanced : Enh.Alto Sax
+067,099,000,Enhanced : Enh.TenorSax
+068,099,000,Enhanced : Enh.Bari Sax
+069,099,000,Enhanced : Enh.Oboe    
+070,099,000,Enhanced : Enh.E Horn  
+071,099,000,Enhanced : Enh.Bassoon 
+072,099,000,Enhanced : Jz.Clarinet2
+073,099,000,Enhanced : Enh.Piccolo 
+074,099,000,Enhanced : Enh.Flute   
+075,099,000,Enhanced : Enh.Recorder
+076,099,000,Enhanced : Cho.PanFlute
+077,099,000,Enhanced : Phase Bottle
+078,099,000,Enhanced : Delay Shaku 
+079,099,000,Enhanced : DelayWhistle
+080,099,000,Enhanced : DelayOcarina
+081,099,000,Enhanced : OBSquareLead
+081,099,001,Enhanced : Phase Square
+081,099,002,Enhanced : Sine Lead   
+082,099,000,Enhanced : KeySync Saw 
+082,099,001,Enhanced : Flanging Saw
+082,099,002,Enhanced : Doctor Lead 
+082,099,003,Enhanced : Fat Saw Lead
+082,099,004,Enhanced : PhaseSeqence
+083,099,000,Enhanced : LeadCalliope
+084,099,000,Enhanced : Chiffers    
+085,099,000,Enhanced : Charang Lead
+085,099,001,Enhanced : Phase Wire  
+086,099,000,Enhanced : SoloVox Lead
+087,099,000,Enhanced : Flanging 5th
+088,099,000,Enhanced : Phase BsLead
+088,099,001,Enhanced : Suffle Lead 
+089,099,000,Enhanced : New Fantasia
+090,099,000,Enhanced : Phase Pad   
+090,099,001,Enhanced : Chorus Sine 
+091,099,000,Enhanced : KeySyncSynth
+092,099,000,Enhanced : Phase Voice 
+092,099,001,Enhanced : Pan Itopia  
+093,099,000,Enhanced : Ring Glass  
+094,099,000,Enhanced : Space Pad   
+095,099,000,Enhanced : Phase Halo  
+096,099,000,Enhanced : Flanging Pad
+097,099,000,Enhanced : Reverse Rain
+098,099,000,Enhanced : Phase Track 
+099,099,000,Enhanced : 3D Crystal  
+099,099,001,Enhanced : Phase Mallet
+100,099,000,Enhanced : Pan Atmos   
+101,099,000,Enhanced : Bright Star 
+102,099,000,Enhanced : Rev Goblin  
+103,099,000,Enhanced : Delay Drops 
+103,099,001,Enhanced : Delay Bell  
+103,099,002,Enhanced : Delay Pan   
+104,099,000,Enhanced : Phase Theme 
+105,099,000,Enhanced : Enh.Sitar   
+105,099,001,Enhanced : FantasySitar
+106,099,000,Enhanced : St.Banjo 2  
+107,099,000,Enhanced : St.Shamisen2
+108,099,000,Enhanced : St.Koto 2   
+108,099,001,Enhanced : St.T Koto 2 
+109,099,000,Enhanced : Trem.Kalimba
+110,099,000,Enhanced : Enh.Bag Pipe
+111,099,000,Enhanced : Enh.Fiddle  
+112,099,000,Enhanced : Enh.Shanai  
+113,099,000,Enhanced : Tinkle Bell 
+114,099,000,Enhanced : Agogo       
+115,099,000,Enhanced : Steel Drums 
+116,099,000,Enhanced : Woodblock   
+116,099,001,Enhanced : Castanet    
+117,099,000,Enhanced : Taiko       
+117,099,001,Enhanced : Concert BD  
+118,099,000,Enhanced : Melo.Tom 1  
+118,099,001,Enhanced : Melo.Tom 2  
+119,099,000,Enhanced : Synth Drum  
+119,099,001,Enhanced : 808 tom     
+119,099,002,Enhanced : Elec Perc   
+120,099,000,Enhanced : Reverse Cym 
+121,099,000,Enhanced : GtFret Noise
+121,099,001,Enhanced : Gt.Cut Noise
+121,099,002,Enhanced : Slap_St.Bass
+122,099,000,Enhanced : Breath Noise
+122,099,001,Enhanced : Fl.Key Click
+123,099,000,Enhanced : Seashore    
+123,099,001,Enhanced : Rain        
+123,099,002,Enhanced : Thunder     
+123,099,003,Enhanced : Wind        
+123,099,004,Enhanced : Stream      
+123,099,005,Enhanced : Bubble      
+124,099,000,Enhanced : Bird Tweet  
+124,099,001,Enhanced : Dog         
+124,099,002,Enhanced : Horse Gallop
+124,099,003,Enhanced : Bird Tweet 2
+125,099,000,Enhanced : Telephone   
+125,099,001,Enhanced : Telephone 2 
+125,099,002,Enhanced : Door Creak  
+125,099,003,Enhanced : Door        
+125,099,004,Enhanced : Scratch     
+125,099,005,Enhanced : Wind Chimes 
+126,099,000,Enhanced : Helicopter  
+126,099,001,Enhanced : Car-Engine  
+126,099,002,Enhanced : Car-Stop    
+126,099,003,Enhanced : Car-Pass    
+126,099,004,Enhanced : Car-Crash   
+126,099,005,Enhanced : Siren       
+126,099,006,Enhanced : Train
+126,099,007,Enhanced : Jetplane
+126,099,008,Enhanced : Starship
+126,099,009,Enhanced : Burst Noise
+127,099,000,Enhanced : Applause    
+127,099,001,Enhanced : Laughing    
+127,099,002,Enhanced : Screaming   
+127,099,003,Enhanced : Punch       
+127,099,004,Enhanced : Heart Beat  
+127,099,005,Enhanced : Footsteps   
+128,099,000,Enhanced : Gunshot     
+128,099,001,Enhanced : Machine Gun 
+128,099,002,Enhanced : Lasergun    
+128,099,003,Enhanced : Explosion   
+001,107,000,Enhanced Drum : Amb.Standard
+009,107,000,Enhanced Drum : Amb.Room
+017,107,000,Enhanced Drum : Gated Power
+025,107,000,Enhanced Drum : Techno Set
+026,107,000,Enhanced Drum : Bully Set
+033,107,000,Enhanced Drum : Amb.Jazz
+041,107,000,Enhanced Drum : Amb.Brush
+049,107,000,Enhanced Drum : OrchestraSet
+057,107,000,Enhanced Drum : SFX Set
+001,098,000,Solo : St.Piano 1  
+001,098,001,Solo : St.Piano 1w 
+001,098,002,Solo : European Pf 
+002,098,000,Solo : St.Piano 2  
+002,098,001,Solo : St.Piano 2w 
+003,098,000,Solo : SA Piano    
+003,098,001,Solo : SA Piano w  
+004,098,000,Solo : St.Honky    
+004,098,001,Solo : St.Honky w  
+005,098,000,Solo : Tremo Rhodes
+005,098,001,Solo : Sweet Tynes 
+005,098,002,Solo : Tremo Dyno  
+005,098,003,Solo : Tremo Wurly 
+006,098,000,Solo : FM Hard EP  
+006,098,001,Solo : Brite FM EP 
+006,098,002,Solo : Brite FM EP2
+006,098,003,Solo : EP Legend 3 
+006,098,004,Solo : EP Phase 3  
+007,098,000,Solo : St.Harpsichd
+007,098,001,Solo : St.Coupl hps
+007,098,002,Solo : St.Harpsi w 
+007,098,003,Solo : St.Harpsi o 
+008,098,000,Solo : Atack Clav 2
+008,098,001,Solo : AnalogClav 2
+009,098,000,Solo : St.Celesta  
+010,098,000,Solo : St.Glocken  
+011,098,000,Solo : St.Music Box
+012,098,000,Solo : St.Vibra    
+012,098,001,Solo : St.Vibra w  
+013,098,000,Solo : St.Marimba  
+013,098,001,Solo : St.Marimba w
+014,098,000,Solo : St.Xylophone
+015,098,000,Solo : St.Tubular  
+015,098,001,Solo : St.Church   
+015,098,002,Solo : St.Carillon 
+016,098,000,Solo : St.Santur   
+017,098,000,Solo : Roller      
+017,098,001,Solo : Rocker      
+017,098,002,Solo : Soft60'Organ
+017,098,003,Solo : Full Stops  
+018,098,000,Solo : Jazz Organ 2
+018,098,001,Solo : Perc.Organ 2
+018,098,002,Solo : Dist.JzOrg 2
+019,098,000,Solo : Rock Organ  
+020,098,000,Solo : Pipe Organ 2
+020,098,001,Solo : LargeChurch2
+020,098,002,Solo : SmallChurch2
+021,098,000,Solo : Reed Organ 3
+021,098,001,Solo : Theater     
+022,098,000,Solo : St.FrenchAcc
+022,098,001,Solo : St.It Muset 
+023,098,000,Solo : St.Harmonica
+024,098,000,Solo : St.Bandneon 
+025,098,000,Solo : Nylon Gt 3  
+025,098,001,Solo : Ukulele 3   
+025,098,002,Solo : Nylon 3 o   
+025,098,003,Solo : Hard Gut Gt2
+026,098,000,Solo : SteelStr.Gt2
+026,098,001,Solo : 12-Str.Gt 3 
+026,098,002,Solo : Mandolin 3  
+026,098,003,Solo : Steel+Body 3
+027,098,000,Solo : Jazz Gt 3   
+027,098,001,Solo : Pedal Steel3
+028,098,000,Solo : Strat2 Rear 
+028,098,001,Solo : Chorus Clean
+028,098,002,Solo : 335
+029,098,000,Solo : TC Mute Gt 2
+029,098,001,Solo : FunkGt.Slap2
+029,098,002,Solo : Funk Pop 2  
+029,098,003,Solo : Slap Jazz Gt
+030,098,000,Solo : OverdriveGt2
+030,098,001,Solo : Gt.Pinch 3  
+031,098,000,Solo : Dist.Gt 2   
+031,098,001,Solo : Feedback OD 
+031,098,002,Solo : Muted Dist 2
+032,098,000,Solo : Gt.OctHarm  
+032,098,001,Solo : FeedbackHarm
+033,098,000,Solo : Fat Aco.Bass
+034,098,000,Solo : Jazz Bass   
+034,098,001,Solo : Finger Slap 
+035,098,000,Solo : Picking Bass
+036,098,000,Solo : PhaseFrtless
+037,098,000,Solo : Jazz Slap   
+038,098,000,Solo : Slap Pop 2  
+039,098,000,Solo : Fat Syn.Bass
+039,098,001,Solo : SynthSaw Bs 
+039,098,002,Solo : AcidBs Dirty
+039,098,003,Solo : Clavi Bass 3
+039,098,004,Solo : MG Hammer   
+040,098,000,Solo : Sq SynthBass
+040,098,001,Solo : Beef Saw Bs 
+040,098,002,Solo : JpSaw Rubber
+040,098,003,Solo : Attack MG Bs
+041,098,000,Solo : Violin 2 vib
+041,098,001,Solo : SlowVln2 vib
+042,098,000,Solo : Viola2 vib  
+043,098,000,Solo : Cello2 vib  
+044,098,000,Solo : Cb2 vib     
+045,098,000,Solo : St.Trem Str 
+046,098,000,Solo : St.Pizzicato
+047,098,000,Solo : St.Harp     
+047,098,001,Solo : St.Yangqin  
+048,098,000,Solo : St.Timpani  
+049,098,000,Solo : St.Strings  
+049,098,001,Solo : St.Orchestra
+049,098,002,Solo : St.OctStr 1 
+050,098,000,Solo : St.Slow Str 
+051,098,000,Solo : StackSyn.Str
+051,098,001,Solo : Oct.SynStr 2
+052,098,000,Solo : Warm SynStr2
+053,098,000,Solo : St.ChoirAahs
+053,098,001,Solo : St.Sm Choir 
+054,098,000,Solo : St.Vox Oohs 
+054,098,001,Solo : St.Hamming  
+055,098,000,Solo : St.SynVox   
+055,098,001,Solo : Ana Voice 3 
+056,098,000,Solo : St.Orc Hit  
+056,098,001,Solo : St.Bass Hit 
+056,098,002,Solo : St.6th Hit  
+056,098,003,Solo : St.Euro Hit 
+057,098,000,Solo : Romantic Tp 
+057,098,001,Solo : Tp.Dark vib 
+058,098,000,Solo : Trombone vib
+058,098,001,Solo : Trombone2vib
+058,098,002,Solo : Br.Bone vib 
+059,098,000,Solo : Tuba vib    
+060,098,000,Solo : Solo MutedTp
+060,098,001,Solo : Harmon Mute2
+061,098,000,Solo : St.Fr Horns 
+061,098,001,Solo : St.Fr Horns2
+062,098,000,Solo : St.Brass    
+062,098,001,Solo : St.Brass 2  
+063,098,000,Solo : Hyper Brass 
+063,098,001,Solo : Stack Brass 
+063,098,002,Solo : OctSynBrass3
+063,098,003,Solo : SuperSaw Brs
+064,098,000,Solo : Warm SynHorn
+064,098,001,Solo : Rich SynHorn
+064,098,002,Solo : P5 Syn.Brass
+065,098,000,Solo : Sop.Sax vib 
+066,098,000,Solo : AltoSoft vib
+067,098,000,Solo : Blow Tenor  
+068,098,000,Solo : Bari.Sax vib
+069,098,000,Solo : Classic Oboe
+070,098,000,Solo : E.Horn vib  
+071,098,000,Solo : Bassoon vib 
+072,098,000,Solo : JazzClarinet
+073,098,000,Solo : Piccolo vib 
+074,098,000,Solo : Flute vib   
+075,098,000,Solo : Recorder vib
+076,098,000,Solo : PanFlute vib
+077,098,000,Solo : Bottle vib  
+078,098,000,Solo : Shaku.vib   
+079,098,000,Solo : Whistle vib 
+080,098,000,Solo : Ocarina vib 
+081,098,000,Solo : OB Square   
+081,098,001,Solo : Fat Square2 
+081,098,002,Solo : 2600 Sine 2 
+082,098,000,Solo : Oct.JP Saw  
+082,098,001,Solo : Hybrid Saw  
+082,098,002,Solo : Hybrid Solo 
+082,098,003,Solo : MG Saw Lead 
+082,098,004,Solo : DelaySeqence
+083,098,000,Solo : SynCalliope3
+084,098,000,Solo : ChifferLead3
+085,098,000,Solo : Charang 3   
+085,098,001,Solo : Wire Lead 3 
+086,098,000,Solo : Solo Vox 3  
+087,098,000,Solo : 5th SawWave3
+088,098,000,Solo : Bass & Lead3
+088,098,001,Solo : DelayedLead3
+089,098,000,Solo : Fantasia 3  
+090,098,000,Solo : Warm Pad 3  
+090,098,001,Solo : Sine Pad 3  
+091,098,000,Solo : Polysynth 3 
+092,098,000,Solo : SpaceVoice 3
+092,098,001,Solo : Itopia 3    
+093,098,000,Solo : BowedGlass 3
+094,098,000,Solo : Metal Pad 3 
+095,098,000,Solo : Halo Pad 3  
+096,098,000,Solo : Sweep Pad 3 
+097,098,000,Solo : Ice Rain 3  
+098,098,000,Solo : Soundtrack 3
+099,098,000,Solo : Crystal 3   
+099,098,001,Solo : Syn Mallet 3
+100,098,000,Solo : Atmosphere 3
+101,098,000,Solo : Brightness 3
+102,098,000,Solo : Goblin 3    
+103,098,000,Solo : Echo Drops 3
+103,098,001,Solo : Echo Bell 3 
+103,098,002,Solo : Echo Pan 3  
+104,098,000,Solo : Star Theme 3
+105,098,000,Solo : St.Sitar    
+105,098,001,Solo : St.Sitar 2  
+106,098,000,Solo : St.Banjo    
+107,098,000,Solo : St.Shamisen 
+108,098,000,Solo : St.Koto     
+108,098,001,Solo : St.T Koto   
+109,098,000,Solo : St.Kalimba  
+110,098,000,Solo : St.Bag Pipe 
+111,098,000,Solo : Fiddle 2 vib
+112,098,000,Solo : St.Shanai   
+113,098,000,Solo : Tinkle Bell 
+114,098,000,Solo : Agogo       
+115,098,000,Solo : Steel Drums 
+116,098,000,Solo : Woodblock   
+116,098,001,Solo : Castanet    
+117,098,000,Solo : Taiko       
+117,098,001,Solo : Concert BD  
+118,098,000,Solo : Melo.Tom 1  
+118,098,001,Solo : Melo.Tom 2  
+119,098,000,Solo : Synth Drum  
+119,098,001,Solo : 808 tom     
+119,098,002,Solo : Elec Perc   
+120,098,000,Solo : Reverse Cym 
+121,098,000,Solo : GtFret Noise
+121,098,001,Solo : Gt.Cut Noise
+121,098,002,Solo : Slap_St.Bass
+122,098,000,Solo : Breath Noise
+122,098,001,Solo : Fl.Key Click
+123,098,000,Solo : Seashore    
+123,098,001,Solo : Rain        
+123,098,002,Solo : Thunder     
+123,098,003,Solo : Wind        
+123,098,004,Solo : Stream      
+123,098,005,Solo : Bubble      
+124,098,000,Solo : Bird Tweet  
+124,098,001,Solo : Dog         
+124,098,002,Solo : Horse Gallop
+124,098,003,Solo : Bird Tweet 2
+125,098,000,Solo : Telephone   
+125,098,001,Solo : Telephone 2 
+125,098,002,Solo : Door Creak  
+125,098,003,Solo : Door        
+125,098,004,Solo : Scratch     
+125,098,005,Solo : Wind Chimes 
+126,098,000,Solo : Helicopter  
+126,098,001,Solo : Car-Engine  
+126,098,002,Solo : Car-Stop    
+126,098,003,Solo : Car-Pass    
+126,098,004,Solo : Car-Crash   
+126,098,005,Solo : Siren       
+126,098,006,Solo : Train
+126,098,007,Solo : Jetplane
+126,098,008,Solo : Starship
+126,098,008,Solo : Burst Noise
+127,098,000,Solo : Applause    
+127,098,001,Solo : Laughing    
+127,098,002,Solo : Screaming   
+127,098,003,Solo : Punch       
+127,098,004,Solo : Heart Beat  
+127,098,005,Solo : Footsteps   
+128,098,000,Solo : Gunshot     
+128,098,001,Solo : Machine Gun 
+128,098,002,Solo : Lasergun    
+128,098,003,Solo : Explosion   
+001,106,000,Solo Drum : St.Standard
+009,106,000,Solo Drum : St.Room
+017,106,000,Solo Drum : St.Power
+025,106,000,Solo Drum : Rust Set
+026,106,000,Solo Drum : Analog2 Set
+033,106,000,Solo Drum : St.Jazz
+041,106,000,Solo Drum : St.Brush
+049,106,000,Solo Drum : OrchestraSet
+057,106,000,Solo Drum : SFX Set
+001,080,000,Special1 : D.L.A.Pad   
+002,080,000,Special1 : BrushingSaw 
+003,080,000,Special1 : Xtremities  
+004,080,000,Special1 : Atmostrings 
+005,080,000,Special1 : Noo Tongs   
+006,080,000,Special1 : Mistery     
+007,080,000,Special1 : EastrnEurope
+008,080,000,Special1 : Harpsi&Str  
+009,080,000,Special1 : Shout Gt    
+010,080,000,Special1 : Clean Chorus
+011,080,000,Special1 : Mid Boost Gt
+012,080,000,Special1 : Guitarvibe  
+013,080,000,Special1 : Cluster Sect
+014,080,000,Special1 : Mariachi Tp 
+015,080,000,Special1 : NY Tenor    
+016,080,000,Special1 : Jazz Club   
+017,080,000,Special1 : Moody Alto  
+018,080,000,Special1 : Fuji Yama   
+019,080,000,Special1 : SD Piano    
+020,080,000,Special1 : Piano&Str   
+021,080,000,Special1 : WarmVoxPiano
+022,080,000,Special1 : Enh.E Grand 
+023,080,000,Special1 : Brite Honky 
+024,080,000,Special1 : Ambient EP  
+025,080,000,Special1 : Phase Dyno  
+026,080,000,Special1 : Wah Dyno    
+027,080,000,Special1 : Voweling EP 
+028,080,000,Special1 : Stage 73    
+029,080,000,Special1 : NY Rhodes   
+030,080,000,Special1 : Amped Wurlie
+031,080,000,Special1 : Dirty Wurlie
+032,080,000,Special1 : PhaseFlangEP
+033,080,000,Special1 : Dist Wurly  
+034,080,000,Special1 : Xmod EP     
+035,080,000,Special1 : EP+Followers
+036,080,000,Special1 : Backrhodes  
+037,080,000,Special1 : FM Delight  
+038,080,000,Special1 : Enh.Legend  
+039,080,000,Special1 : Phasing EP  
+040,080,000,Special1 : Comp Clav   
+041,080,000,Special1 : Vibarimba   
+042,080,000,Special1 : FM layer    
+043,080,000,Special1 : Vibey Flute 
+044,080,000,Special1 : Chime Bells 
+045,080,000,Special1 : The Big Spin
+046,080,000,Special1 : Roller Spin 
+047,080,000,Special1 : Rocker Spin 
+048,080,000,Special1 : Tone Wh.Solo
+049,080,000,Special1 : Purple Spin 
+050,080,000,Special1 : RingingOrgan
+051,080,000,Special1 : 60's LeadOrg
+052,080,000,Special1 : DistLead Org
+053,080,000,Special1 : Assalt Organ
+054,080,000,Special1 : Perky Spin  
+055,080,000,Special1 : Gospel Spin 
+056,080,000,Special1 : Boogie Organ
+057,080,000,Special1 : Klubb Organ 
+058,080,000,Special1 : 96 Year     
+059,080,000,Special1 : OrganInStone
+060,080,000,Special1 : StringsOrgan
+061,080,000,Special1 : Cathdr Pipes
+062,080,000,Special1 : Enh.Theater 
+063,080,000,Special1 : Ld.Harmonica
+064,080,000,Special1 : Guitar&Str  
+065,080,000,Special1 : Elec Gut Gt 
+066,080,000,Special1 : Chorus GutGt
+067,080,000,Special1 : Enh.Nylon Gt
+068,080,000,Special1 : CompSteel Gt
+069,080,000,Special1 : Elec Aco.Gt 
+070,080,000,Special1 : Hard Steel  
+071,080,000,Special1 : Comp OVSteel
+072,080,000,Special1 : DelayedSteel
+073,080,000,Special1 : Wah Steel Gt
+074,080,000,Special1 : Soft Steel  
+075,080,000,Special1 : Lead Jazz Gt
+076,080,000,Special1 : Hawaian Gt  
+077,080,000,Special1 : Solo Jazz Gt
+078,080,000,Special1 : Old Clean Gt
+079,080,000,Special1 : Jazz Chorus 
+080,080,000,Special1 : Fat Clean   
+081,080,000,Special1 : Space-D Gt  
+082,080,000,Special1 : Whammy Gt   
+083,080,000,Special1 : Trem&Cho Gt 
+084,080,000,Special1 : Long DLY.Gt 
+085,080,000,Special1 : Comp FeedBK 
+086,080,000,Special1 : ChaseDL Mute
+087,080,000,Special1 : Wah Funk Pop
+088,080,000,Special1 : Old Blues   
+089,080,000,Special1 : 335 Drive   
+090,080,000,Special1 : 335 Drive2  
+091,080,000,Special1 : SmallAMP OD 
+092,080,000,Special1 : CountrySlide
+093,080,000,Special1 : 335 Comp    
+094,080,000,Special1 : TC Lead Gt  
+095,080,000,Special1 : Lead Mild Gt
+096,080,000,Special1 : Crunch Gt   
+097,080,000,Special1 : Auto Wah Gt 
+098,080,000,Special1 : Folmant Gt  
+099,080,000,Special1 : Fuzz Gt     
+100,080,000,Special1 : MonoPhase Gt
+101,080,000,Special1 : 2 Layer Gt  
+102,080,000,Special1 : MonoDLY Dist
+103,080,000,Special1 : Step FLG Gt 
+104,080,000,Special1 : 335 Fuzz    
+105,080,000,Special1 : Drive Funk  
+106,080,000,Special1 : Loud & Metal
+107,080,000,Special1 : Heavy DistGt
+108,080,000,Special1 : Power Mute  
+109,080,000,Special1 : Muted OD    
+110,080,000,Special1 : Combo Drive 
+111,080,000,Special1 : Ring Gt.    
+112,080,000,Special1 : Scream Drive
+113,080,000,Special1 : Gt.Pinch Wah
+114,080,000,Special1 : Power DistGt
+115,080,000,Special1 : Triple Gt   
+116,080,000,Special1 : Reverse Harm
+117,080,000,Special1 : Drivin'Uprit
+118,080,000,Special1 : Enh.Aco Bass
+119,080,000,Special1 : Pre Bass    
+120,080,000,Special1 : Comp Finger 
+121,080,000,Special1 : Octrv Finger
+122,080,000,Special1 : Rock Bass   
+123,080,000,Special1 : Dist Bass   
+124,080,000,Special1 : Solo Fretles
+125,080,000,Special1 : WahSlapBass 
+126,080,000,Special1 : Froggy Bass 
+127,080,000,Special1 : 3D TB-303   
+128,080,000,Special1 : Acid Dist Bs
+001,081,000, Special2 : Blown Bass  
+002,081,000, Special2 : Enh.Violin  
+003,081,000, Special2 : Solo Violin 
+004,081,000, Special2 : Enh.Cello   
+005,081,000, Special2 : Overture Str
+006,081,000, Special2 : St.Trem Str2
+007,081,000, Special2 : St.Strings 2
+008,081,000, Special2 : Intim8String
+009,081,000, Special2 : Str&Brs Orch
+010,081,000, Special2 : St.Orchestr2
+011,081,000, Special2 : St.Slow Str2
+012,081,000, Special2 : ChamberPlyrs
+013,081,000, Special2 : Prelude     
+014,081,000, Special2 : Tape Strings
+015,081,000, Special2 : JP Strings  
+016,081,000, Special2 : PhaseSyn.Str
+017,081,000, Special2 : SciFi Choir 
+018,081,000, Special2 : Rich Choir  
+019,081,000, Special2 : St.Sm Choir2
+020,081,000, Special2 : Tron Choir  
+021,081,000, Special2 : ScatterDanze
+022,081,000, Special2 : Choral Brass
+023,081,000, Special2 : Vocal Keys  
+024,081,000, Special2 : SampleThe80s
+025,081,000, Special2 : Spectravox  
+026,081,000, Special2 : Formantic   
+027,081,000, Special2 : Vocoder Wave
+028,081,000, Special2 : Enh.Muted Tp
+029,081,000, Special2 : St.Big Brass
+030,081,000, Special2 : ConcertHorns
+031,081,000, Special2 : Brass Orch  
+032,081,000, Special2 : Loose Lips  
+033,081,000, Special2 : Multi Brass 
+034,081,000, Special2 : SuperJP Brs1
+035,081,000, Special2 : SuperJP Brs2
+036,081,000, Special2 : DragginBrass
+037,081,000, Special2 : Enh.Alto Sax
+038,081,000, Special2 : Enh.TenorSax
+039,081,000, Special2 : Enh.Bari Sax
+040,081,000, Special2 : Sax's Sect  
+041,081,000, Special2 : Reed Romance
+042,081,000, Special2 : U.S.Patrol  
+043,081,000, Special2 : Enh.Oboe    
+044,081,000, Special2 : Jz.Clarinet2
+045,081,000, Special2 : Enh.Flute   
+046,081,000, Special2 : Tron Flutes 
+047,081,000, Special2 : Flute&Clari 
+048,081,000, Special2 : Orch Reeds  
+049,081,000, Special2 : Delay Shaku 
+050,081,000, Special2 : DelayOcarina
+051,081,000, Special2 : DynOrchestra
+052,081,000, Special2 : Celtic Ens  
+053,081,000, Special2 : Early Ens   
+054,081,000, Special2 : WoodSymphony
+055,081,000, Special2 : ViennaWoods2
+056,081,000, Special2 : Stage Woods 
+057,081,000, Special2 : TremoloFlute
+058,081,000, Special2 : SupportWoods
+059,081,000, Special2 : Fiddle&Oboe 
+060,081,000, Special2 : Mono Blues  
+061,081,000, Special2 : TravlnFlutes
+062,081,000, Special2 : DistordedSAW
+063,081,000, Special2 : The Leader  
+064,081,000, Special2 : SH-2 Lead   
+065,081,000, Special2 : JP-6 Lead   
+066,081,000, Special2 : Glassy Saws 
+067,081,000, Special2 : Too Pure    
+068,081,000, Special2 : Mono Analog 
+069,081,000, Special2 : Charang Lead
+070,081,000, Special2 : Phase Wire  
+071,081,000, Special2 : Flanging 5th
+072,081,000, Special2 : BOG         
+073,081,000, Special2 : Solo Twang  
+074,081,000, Special2 : Koto Power  
+075,081,000, Special2 : Dulcid Solo 
+076,081,000, Special2 : Wine Guitar 
+077,081,000, Special2 : Leapin' Keys
+078,081,000, Special2 : New Fantasia
+079,081,000, Special2 : MilleniumStr
+080,081,000, Special2 : OB Borealis 
+081,081,000, Special2 : Wet Glass   
+082,081,000, Special2 : VintagePhase
+083,081,000, Special2 : P-layer     
+084,081,000, Special2 : Ring Glass  
+085,081,000, Special2 : 5th Atm /Aft
+086,081,000, Special2 : Combing     
+087,081,000, Special2 : Modular Life
+088,081,000, Special2 : KeySyncSynth
+089,081,000, Special2 : Phase Track 
+090,081,000, Special2 : 3D Crystal  
+091,081,000, Special2 : Bright Star 
+092,081,000, Special2 : Technoheadz 
+093,081,000, Special2 : Techno Cave 
+094,081,000, Special2 : Wedo-Wodo   
+095,081,000, Special2 : Dance Sweet 
+096,081,000, Special2 : Dancefloor  
+097,081,000, Special2 : Frogcillator
+098,081,000, Special2 : Dance Zipper
+099,081,000, Special2 : Lo-fi Chord 
+100,081,000, Special2 : Sliced      
+101,081,000, Special2 : Dance Chop  
+102,081,000, Special2 : GO WILD!    
+103,081,000, Special2 : Tropics     
+104,081,000, Special2 : FM Fx Bells 
+105,081,000, Special2 : CrystalGlass
+106,081,000, Special2 : Borealis    
+107,081,000, Special2 : Circular Pad
+108,081,000, Special2 : Oxigenizer  
+109,081,000, Special2 : Quasar      
+110,081,000, Special2 : PsycheSweep 
+111,081,000, Special2 : Hell Section
+112,081,000, Special2 : DigitalDrone
+113,081,000, Special2 : Harp Drop   
+114,081,000, Special2 : Runaway Rez 
+115,081,000, Special2 : Wacky Pizzer
+116,081,000, Special2 : Reverse Rain
+117,081,000, Special2 : Starburst   
+118,081,000, Special2 : Tongan Delay
+119,081,000, Special2 : Cascade     
+120,081,000, Special2 : Legat~Stacat
+121,081,000, Special2 : Rev Goblin  
+122,081,000, Special2 : FantasySitar
+123,081,000, Special2 : Rising Sun  
+124,081,000, Special2 : Green Tea   
+125,081,000, Special2 : Jimmy's Koto
+126,081,000, Special2 : Fly 2 India 
+127,081,000, Special2 : IndianSpirit
+128,081,000, Special2 : Gt/BsNz MENU
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
